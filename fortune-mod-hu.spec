@@ -5,7 +5,6 @@ Version:	0.1
 Release:	1
 License:	Public Domain
 Group:		Applications/Games
-BuildRequires:	fortune-mod
 Requires:	fortune-mod
 Source0:	http://melkor.dnp.fmph.uniba.sk/~garabik/fortunes-hu/fortunes-hu.tar.gz
 # Source0-md5:	88bf0718b8e5eab8f582be90b510c9bc
