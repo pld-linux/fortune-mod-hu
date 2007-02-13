@@ -1,5 +1,5 @@
 Summary:	Collection of Hungarian fortunes
-Summary(pl.UTF-8):   Zestaw węgierskich fortunek
+Summary(pl.UTF-8):	Zestaw węgierskich fortunek
 Name:		fortune-mod-hu
 Version:	0.1
 Release:	1
